@@ -1,0 +1,157 @@
+<news>
+	<entry>
+		<date>2024-07-05 14:00:00Z</date>
+		<title>Stability View</title>
+		<text>
+			
+		+ Stability View option has been added to the ESC menu for Donors.
+		
+		+ If you logout with Stability View on, you must re-toggle to activate upon loging back in.
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-07-05 12:00:00Z</date>
+		<title>Dew Collector</title>
+		<text>
+			
+		+ Dew Collectors can be upgraded, which will increase speed and amount of water WITH tools in.
+
+		+ REMOVE TOOLS BEFORE UPGRADING
+
+		+ Forged Bronze x10 -> Forged Tungsten x10 -> 
+		  Forged Mithril x10 -> Forged Dwarvenite x10 -> 
+		  Forged Adamantite x10
+
+		+ Vanilla: Speed x2 | Amount 2
+		  Bronze: Speed x4 | Amount 3
+		  Tungsten: Speed x8 | Amount 4
+		  Mithril: Speed x16 | Amount 5
+		  Dwarvenite: Speed x32 | Amount 6
+		  Adamantite: Speed x64 | Amount 10
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-07-02 08:00:00Z</date>
+		<title>Backpack</title>
+		<text>
+			
+		+ Due to issues with Donors unable to manage their important items in their backpack, the default backpack size has increased.
+		
+		+ Previous slots: 91
+		
+		+ New slots total: 104
+		
+		+ Duration: Remainder of wipe at least
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-06-30 04:00:00Z</date>
+		<title>More Traps Added</title>
+		<text>
+			
+		+ Better traps added
+		
+		+ Fire and shock variant can be found by searching "trap" in recipes
+		
+		+ All craft at a 1:1 ratio except logs, which craft 3 logs per
+		
+		+ Traps unlocked at Advanced Engineering level 4
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-06-30 02:00:00Z</date>
+		<title>Universal Tools and Map</title>
+		<text>
+			
+		+ Univseral Repair Kit Added
+		
+		+ Universal Repair Kits can fully repair Universal Tools
+		
+		+ 5 Universal Repair Kits can be craft at the cost of 1 Rough Pearl on the workbench
+
+		+ Live Map added to the links on the left
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-06-29 12:10:00Z</date>
+		<title>Updated Guide UI</title>
+		<text>
+			
+		+ UI updated to allow for links in game.
+			
+		+ UI updated to allow for announcement in game.
+			
+		+ UI updated to allow for changelogs in game.
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-06-29 03:37:00Z</date>
+		<title>Storage Improvements</title>
+		<text>
+			
+		+ Better storage beyond the Steel is now available 
+		
+		+ Goes all the way up to Adamantite level
+		
+		+ Steel -> Bronze -> Tungsten -> Mithril -> Dwarvenite -> Adamantite
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-06-29 02:01:00Z</date>
+		<title>Server Improvements</title>
+		<text>
+			
+		+ Upped Max Player Count by 5. Total players now 40, with additional 5 for staff.
+			
+		+ Optimized some coding to reduce net packages.
+			
+		+ Books will now scrap to crafting paper, in addition to magazines.
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-06-27 07:53:00Z</date>
+		<title>Spawner Improvements</title>
+		<text>
+			
+		+ Quest Ticket Spawners fixed for 1.0
+			
+		+ New visual effect added.
+			
+		+ Increased performance with spawns via new method. 
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-06-25 02:37:00Z</date>
+		<title>Server Updated 1.0 EXP</title>
+		<text>
+			
+		With this, The Oasis enters 1.0 EXP and it's first full release after two full alphas.
+		We have been through a lot. 
+		We have learned a lot.
+		We have grown a lot.
+		Here's to all of you who have been with us since the start. We are excited to continue to learn, grow, and have fun with old and new players alike. 
+		
+		Welcome to The Oasis 1.0 EXP!
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+</news>
