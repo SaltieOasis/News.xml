@@ -1,5 +1,28 @@
 <news>
 	<entry>
+		<date>2024-10-26 01:00:00Z</date>
+		<title>Wipe Update</title>
+		<text>
+
+		+ Learn By Doing (LBD) exp for ranged weapons increases per shot depending on the ammo type, better ammo gives more exp per shot.
+		+ Ranged headshots give 50% more LBD exp (of the base weapon amount, not including other modifiers).
+		+ Ranged weapon kills add a stacking LBD exp bonus per shot for that weapon type (will cap eventaully).
+		+ Melee kills give 100% one time bonus LBD exp of the weapon base LBD exp.
+		+ Ammo Effectiveness now applies. This means lower quality ammo will be less effective in harder biomes. These numbers and biomes for each ammo type can be seen in the Ammo Effectiveness tab of the Weapons mod info in the ESC menu.
+		+ As an added bonus to make it more worth challenging yourself in the harder biomes, the flat player exp gain is increased by 25% for the Desert, 50% for the Snow, and 75% for the Wasteland.
+		+ Prestige now goes to 3 levels (that have rewards).
+		Level 1 ensures no non-voting currency tools break ever again for you. You also receive +25% more ranged and +50% more melee LBD exp of the weapon's base amount. +10% Player EXP, +5% Walk Speed, +10% Run Speed.
+		Level 2 unlocks the recipe and use of Prestige (P) weapons, and ensures no non-voting currency weapons break ever again for you. You also receive an additonal +25% more ranged and +50% more melee LBD exp of the weapon's base amount. An additional +10% Player EXP, +5% Walk Speed, +10% Run Speed.
+		Level 3 unlocks the recipe and use of Prestige Plus (P+) weapons with unlimited ammo of any type. You also receive an additional +10% Player EXP, +5% Walk Speed, +10% Run Speed.
+		+ Auto Sort storage increased to the size of a Diamond Storage container.
+		+ Smelt bundles will now unlock one level after their correlating resource in Dwarven Crafting. Vanilla resource smelt bundles unlock on Level 1 of Dwarven Crafting.
+		+ Added Plant decor variants.
+		+ Shotgun custom ammo changed to shells (but still penetrate).
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
 		<date>2024-08-18 04:00:00Z</date>
 		<title>Wipe Update</title>
 		<text>
