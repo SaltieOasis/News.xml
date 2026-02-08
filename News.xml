@@ -1,5 +1,17 @@
 <news>
 	<entry>
+		<date>2026-02-08 23:24:00Z</date>
+		<title>Bug Fixes 2/7/26</title>
+		<text>
+
+		+ Stats now have color again.
+		+ Nerfed EXP with certain entity to reduce easy EXP farm.
+		+ Map link in game corrected.
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
 		<date>2026-02-06 21:00:00Z</date>
 		<title>Jan Wipe Update</title>
 		<text>
@@ -215,4 +227,5 @@
 		<link>https://www.google.com</link>
 	</entry>
 </news>
+
 
